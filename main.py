@@ -4,8 +4,6 @@ import base64
 import tempfile
 import os
 import subprocess
-
-# Встроенный короткий звук (beep) в base64
 AUDIO_BASE64 = "UklGRigAAABXQVZFZm10IBAAAAABAAEAIlYAAESsAAACABAAZGF0YQAAAAA="
 
 def play_sound():
